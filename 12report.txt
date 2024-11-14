@@ -1,0 +1,17 @@
+Wed Nov 13 22:15:24 PST 2024
+user: gekuodza
+user: /Users/gekuodza
+user: /bin/zsh
+user: /Users/gekuodza/Documents/GitHub/MCB185/Code/mcb_homework
+user: /Users/gekuodza/google-cloud-sdk/bin:/Users/gekuodza/homebrew/bin:/Users/gekuodza/miniconda3/bin:/Users/gekuodza/miniconda3/condabin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/opt/X11/bin:/Library/Apple/usr/bin
+Darwin Georges-MacBook-Pro-3.local 23.2.0 Darwin Kernel Version 23.2.0: Wed Nov 15 21:59:33 PST 2023; root:xnu-10002.61.3~2/RELEASE_ARM64_T8112 arm64
+Python 3.11.5
+/Users/gekuodza/Documents/GitHub/MCB185/Code
+/Users/gekuodza/Documents/GitHub/MCB185/Code/MCB185
+/Users/gekuodza/Documents/GitHub/MCB185/Code/MCB185/ref
+/Users/gekuodza/Documents/GitHub/MCB185/Code/MCB185/course
+/Users/gekuodza/Documents/GitHub/MCB185/Code/MCB185/.git
+/Users/gekuodza/Documents/GitHub/MCB185/Code/MCB185/data
+/Users/gekuodza/Documents/GitHub/MCB185/Code/MCB185/src
+/Users/gekuodza/Documents/GitHub/MCB185/Code/mcb_homework
+/Users/gekuodza/Documents/GitHub/MCB185/Code/mcb_homework/.git

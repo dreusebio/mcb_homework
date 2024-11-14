@@ -1,0 +1,5 @@
+echo "user: $USER"
+echo "user: $HOME"
+echo "user: $SHELL"
+echo "user: $PWD"
+echo "user: $PATH"
